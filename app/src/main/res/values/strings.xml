@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TouchscreenTest</string>
+    <string name="btn_start_test">START TEST</string>
+    <string name="btn_test_2">TEST 2</string>
+    <string name="btn_test_3">TEST 3</string>
+    <string name="btn_test_4">TEST 4</string>
+    <string name="btn_exit">EXIT</string>
+    <string name="toast_not_ready">NOT READY</string>
+    <string name="toast_test_passed">TEST PASSED!</string>
+</resources>
